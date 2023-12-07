@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F4PiDYS2a81BmuWhbQNkXRB5GM/o6pdk80ExKE26t1OlTDL+uO0omqj0c0zlXCYD+44Ms6/uf2Xi2w3bo6aVPA==",
+  "success": true,
+  "projectFilePath": "/home/lordwulfe/Projects/projects/LDP/As_Final/As_Final.csproj",
+  "expectedPackageFiles": [
+    "/home/lordwulfe/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.24/microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

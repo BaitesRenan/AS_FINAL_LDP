@@ -1,0 +1,15 @@
+/home/lordwulfe/Projects/projects/LDP/As_Final/bin/Debug/net6.0/As_Final
+/home/lordwulfe/Projects/projects/LDP/As_Final/bin/Debug/net6.0/As_Final.deps.json
+/home/lordwulfe/Projects/projects/LDP/As_Final/bin/Debug/net6.0/As_Final.runtimeconfig.json
+/home/lordwulfe/Projects/projects/LDP/As_Final/bin/Debug/net6.0/As_Final.dll
+/home/lordwulfe/Projects/projects/LDP/As_Final/bin/Debug/net6.0/ref/As_Final.dll
+/home/lordwulfe/Projects/projects/LDP/As_Final/bin/Debug/net6.0/As_Final.pdb
+/home/lordwulfe/Projects/projects/LDP/As_Final/obj/Debug/net6.0/As_Final.csproj.AssemblyReference.cache
+/home/lordwulfe/Projects/projects/LDP/As_Final/obj/Debug/net6.0/As_Final.GeneratedMSBuildEditorConfig.editorconfig
+/home/lordwulfe/Projects/projects/LDP/As_Final/obj/Debug/net6.0/As_Final.AssemblyInfoInputs.cache
+/home/lordwulfe/Projects/projects/LDP/As_Final/obj/Debug/net6.0/As_Final.AssemblyInfo.cs
+/home/lordwulfe/Projects/projects/LDP/As_Final/obj/Debug/net6.0/As_Final.csproj.CoreCompileInputs.cache
+/home/lordwulfe/Projects/projects/LDP/As_Final/obj/Debug/net6.0/As_Final.dll
+/home/lordwulfe/Projects/projects/LDP/As_Final/obj/Debug/net6.0/ref/As_Final.dll
+/home/lordwulfe/Projects/projects/LDP/As_Final/obj/Debug/net6.0/As_Final.pdb
+/home/lordwulfe/Projects/projects/LDP/As_Final/obj/Debug/net6.0/As_Final.genruntimeconfig.cache
